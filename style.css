@@ -1,0 +1,141 @@
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#contact{
+background-color:aliceblue;
+text-align: center;
+}
+#explore{
+    color:darkgreen;
+    background-color:cornsilk;
+    text-align: center;
+    padding: 2px;
+    font-size: large;
+}
+.card{
+    width: 350px;
+    margin:10px auto;
+    padding: 2px;
+    border: 3px solid #8D6E63 Brown;
+    border-radius: 30px;
+    background-color: #FFF8E1 Cream;
+}
+.card  h3 {
+    margin-bottom: 10px ;
+}
+.card p{
+    margin: 8px;}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+#sanctuaries{
+    color:darkgreen;
+    background-color:cornsilk;
+    text-align: center;
+    padding: 2px;
+    font-size: large;
+}
+#animals{
+    color:darkgreen;
+    background-color:cornsilk;
+    text-align: center;
+    padding: 2px;
+    font-size: large;}
+#birds{
+    color:darkgreen;
+    background-color:cornsilk;
+    text-align: center;
+    padding: 20px;
+    font-size: large;}
+#insects{
+    color:darkgreen;
+    background-color:cornsilk;
+    text-align: center;
+    padding: 2px;
+    font-size: large; }
+#reptiles{
+    color:darkgreen;
+    background-color:cornsilk;
+    text-align: center;
+    padding: 2px;
+    font-size: large;  }
+#gallery{
+    
+    background-color: burlywood;
+    text-align: center;
+    p{
+        font-size: large;
+    }
+}
+#gallery img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+#conservation{
+    background-color: antiquewhite;
+    text-align: center;
+    ul{
+        text-align:left;
+    }
+}#about{
+    background-color: white;
+    color: #3E2723;
+    
+    h2{
+        
+
+    
+    text-align: center;}
+    p{
+        text-align: center;
+        font-size: large;
+    }
+    h3{text-align: center;}
+    
+}
+header{
+    h1{
+        text-align: center;
+    }
+    nav{
+        text-align: center;
+        font-size: x-large;
+        
+        color: white;
+    }
+    background-color: lightcoral;
+    color: white;
+}
+#home{
+    h2{
+        text-align: center;
+        
+        
+    }
+    h3{text-align: center;}
+    p{
+        text-align: center;
+    }
+   button {
+    display: block;
+    margin: 20px auto;
+    color: brown;
+}
+    background-color: white;
+    color: #3E2723;
+    
+    
+}
+#home
+#about
+#menu{
+    display: flow-root;}
+    section{h2{
+        text-align: center;
+    }}
