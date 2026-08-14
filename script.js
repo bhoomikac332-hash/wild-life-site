@@ -11,8 +11,3 @@ let footer = document.querySelector("footer p");
 footer.innerHTML = "© 2026 Wildlife Sanctuaries of Karnataka. All Rights Reserved.";
 let cards = document.querySelectorAll(".card");
 
-cards.forEach(function(card) {
-    card.onclick = function() {
-        card.style.backgroundColor = "lightgreen";
-    };
-});
